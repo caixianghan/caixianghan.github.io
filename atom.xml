@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>blog.caixh.tt</id>
+    <title>TT Growing</title>
+    <updated>2021-10-15T06:57:32.231Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="blog.caixh.tt"/>
+    <link rel="self" href="blog.caixh.tt/atom.xml"/>
+    <subtitle>TT Growing</subtitle>
+    <rights>All rights reserved 2021, TT Growing</rights>
+    <entry>
+        <title type="html"><![CDATA[写一篇文章]]></title>
+        <id>https://blog.caixh.tt/xie-yi-pian-wen-zhang</id>
+        <link href="https://blog.caixh.tt/xie-yi-pian-wen-zhang"/>
+        <updated>2021-10-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[然后发布
+]]></summary>
+        <content type="html"><![CDATA[<p>然后发布</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[再写一篇文章]]></title>
+        <id>https://blog.caixh.tt/zai-xie-yi-pian-wen-zhang</id>
+        <link href="https://blog.caixh.tt/zai-xie-yi-pian-wen-zhang"/>
+        <updated>2021-10-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[得分
+]]></summary>
+        <content type="html"><![CDATA[<p>得分</p>
+]]></content>
+    </entry>
+</feed>
